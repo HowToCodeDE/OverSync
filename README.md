@@ -5,7 +5,7 @@ OverSync has an easy to use and learn module-based system. You can create module
 
 ## Features
 Here is a list of our features. It's subject to change and WIP, so make sure to take a look here regularly! Non-checked entries are planned features.
-[x] Online Editor with live updates
-[ ] VSCode-Extension
-[x] Custom Event integration
-[ ] Spotify player integration
+- [x] Online Editor with live updates
+- [ ] VSCode-Extension
+- [x] Custom Event integration
+- [ ] Spotify player integration
